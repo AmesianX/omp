@@ -1,4 +1,4 @@
-# Open Memory Protocol (OMP)
+# Open LTMP (OLTMP)
 
 **The Deterministic Memory Layer for AI Coding Agents**
 
@@ -14,7 +14,7 @@ In long-running coding sessions, AI agents rely on summaries of previous work. T
 
 ## The Solution: Dual-Track Memory
 
-OMP splits memory into two specialized streams that merge only at retrieval time:
+OLTMP splits memory into two specialized streams that merge only at retrieval time:
 
 | Track | Source | Stores | Veracity |
 |-------|--------|--------|----------|
